@@ -1,0 +1,3 @@
+SimpleBankingAppTest_TestDeposit_IndividualInvestmentAccountDirectDeposit
+AccountNumber: 0000000001ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1.00|Id: 2f13c0fa-3443-4e3c-99c2-f64219f3aa4f|Name: Washington, George
+AccountNumber: 0000000001ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1,001.00|Id: 2f13c0fa-3443-4e3c-99c2-f64219f3aa4f|Name: Washington, George

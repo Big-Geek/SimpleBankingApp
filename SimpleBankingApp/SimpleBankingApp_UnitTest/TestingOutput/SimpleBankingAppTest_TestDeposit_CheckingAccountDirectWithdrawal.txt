@@ -1,0 +1,3 @@
+SimpleBankingAppTest_TestDeposit_CheckingAccountDirectWithdrawal
+AccountNumber: 0000000011cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $100,000.00|Id: 2f88778a-56dd-4362-8ef0-aa56df5aea2f|Name: Wilson, Woodrow
+AccountNumber: 0000000011cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $99,000.00|Id: 2f88778a-56dd-4362-8ef0-aa56df5aea2f|Name: Wilson, Woodrow

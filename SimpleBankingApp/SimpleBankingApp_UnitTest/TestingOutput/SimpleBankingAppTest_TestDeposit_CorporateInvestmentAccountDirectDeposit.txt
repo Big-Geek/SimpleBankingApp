@@ -1,0 +1,3 @@
+SimpleBankingAppTest_TestDeposit_CorporateInvestmentAccountDirectDeposit
+AccountNumber: 0000000001ci|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $1.00|Id: 46b9df2c-f087-4e7c-95be-43dbe7851c91|Name: Washington, George
+AccountNumber: 0000000001ci|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $1,001.00|Id: 46b9df2c-f087-4e7c-95be-43dbe7851c91|Name: Washington, George

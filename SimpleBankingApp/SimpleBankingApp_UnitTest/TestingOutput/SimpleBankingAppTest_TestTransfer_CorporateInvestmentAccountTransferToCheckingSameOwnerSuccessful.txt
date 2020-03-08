@@ -1,0 +1,7 @@
+SimpleBankingAppTest_TestTransfer_CorporateInvestmentAccountTransferToCheckingSameOwnerSuccessful
+Before Transaction
+AccountNumber: 0000000001ci|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $1.00|Id: 29a3b37b-31e5-417a-b873-dfea769f47fa|Name: Washington, George
+AccountNumber: 0000000001cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $1.00|Id: 29a3b37b-31e5-417a-b873-dfea769f47fa|Name: Washington, George
+After Transaction
+AccountNumber: 0000000001ci|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $0.00|Id: 29a3b37b-31e5-417a-b873-dfea769f47fa|Name: Washington, George
+AccountNumber: 0000000001cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $2.00|Id: 29a3b37b-31e5-417a-b873-dfea769f47fa|Name: Washington, George

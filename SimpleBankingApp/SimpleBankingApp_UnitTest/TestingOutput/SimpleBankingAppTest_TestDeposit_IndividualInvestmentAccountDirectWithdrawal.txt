@@ -1,0 +1,3 @@
+SimpleBankingAppTest_TestDeposit_IndividualInvestmentAccountDirectWithdrawal
+AccountNumber: 0000000011ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $100,000.00|Id: df150250-fd6e-456d-a3a4-c6a2d6662c6e|Name: Wilson, Woodrow
+AccountNumber: 0000000011ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $99,000.00|Id: df150250-fd6e-456d-a3a4-c6a2d6662c6e|Name: Wilson, Woodrow

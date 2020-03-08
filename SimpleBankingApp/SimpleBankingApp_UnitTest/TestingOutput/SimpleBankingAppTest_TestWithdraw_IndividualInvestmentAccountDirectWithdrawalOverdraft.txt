@@ -1,0 +1,3 @@
+SimpleBankingAppTest_TestWithdraw_IndividualInvestmentAccountDirectWithdrawalOverdraft
+AccountNumber: 0000000001ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1.00|Id: 2b529fff-4ec4-4293-a26d-3c110a4971c4|Name: Washington, George
+AccountNumber: 0000000001ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1.00|Id: 2b529fff-4ec4-4293-a26d-3c110a4971c4|Name: Washington, George

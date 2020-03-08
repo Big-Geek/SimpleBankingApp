@@ -1,0 +1,7 @@
+SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToIndividualInvSameOwnerSuccessful
+Before Transaction
+AccountNumber: 0000000001cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $1.00|Id: 1bb36e49-7538-41e0-9605-a54ebd88ebb5|Name: Washington, George
+AccountNumber: 0000000001ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1.00|Id: 1bb36e49-7538-41e0-9605-a54ebd88ebb5|Name: Washington, George
+After Transaction
+AccountNumber: 0000000001cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $0.00|Id: 1bb36e49-7538-41e0-9605-a54ebd88ebb5|Name: Washington, George
+AccountNumber: 0000000001ii|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $2.00|Id: 1bb36e49-7538-41e0-9605-a54ebd88ebb5|Name: Washington, George

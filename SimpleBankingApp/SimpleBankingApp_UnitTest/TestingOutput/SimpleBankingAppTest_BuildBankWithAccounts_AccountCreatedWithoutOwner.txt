@@ -1,0 +1,8 @@
+SimpleBankingAppTest_BuildBankWithAccounts_AccountCreatedWithoutOwner
+Id: 58aee1d1-a52e-4267-bb87-58647679e3ed|Name: Washington, George
+AccountNumber: 0000000001cx|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $1.00|Id: 4edc52f8-1e32-486e-a0f4-cca5fe0cd88c|Name: Washington, George
+AccountNumber: bc4aef6d-1bd9-4302-92cc-85e8c0540790|AccountType: SimpleBankingApp.Classes.Accounts.Checking|Balance: $1.00|Id: 58aee1d1-a52e-4267-bb87-58647679e3ed|Name: Washington, George
+AccountNumber: 6c62abb5-1aeb-453e-b340-6702d06d62f6|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $1.00|Id: 00fa972b-3c53-4f61-9f4a-ae6beb79cb86|Name: Washington, George
+AccountNumber: 51934b98-e742-49e1-a531-c99bd6b41a15|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $1.00|Id: 58aee1d1-a52e-4267-bb87-58647679e3ed|Name: Washington, George
+AccountNumber: 8b0a0366-5c22-4b97-93e2-d721817763e5|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1.00|Id: e9d3ee72-2b02-4cce-a942-5c222e7ed072|Name: Washington, George
+AccountNumber: 29c2547b-757c-4de4-aa70-ea25afa99036|AccountType: SimpleBankingApp.Classes.Accounts.IndividualInvestment|Balance: $1.00|Id: 58aee1d1-a52e-4267-bb87-58647679e3ed|Name: Washington, George

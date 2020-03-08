@@ -1,0 +1,3 @@
+SimpleBankingAppTest_TestDeposit_CorporateInvestmentAccountDirectWithdrawal
+AccountNumber: 0000000011ci|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $100,000.00|Id: 05d2fb03-eeca-40e4-a749-eb19ea71b0a9|Name: Wilson, Woodrow
+AccountNumber: 0000000011ci|AccountType: SimpleBankingApp.Classes.Accounts.CorporateInvestment|Balance: $99,000.00|Id: 05d2fb03-eeca-40e4-a749-eb19ea71b0a9|Name: Wilson, Woodrow

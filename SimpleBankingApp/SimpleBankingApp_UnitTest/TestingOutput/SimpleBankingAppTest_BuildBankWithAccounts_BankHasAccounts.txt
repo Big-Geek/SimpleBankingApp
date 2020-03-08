@@ -1,0 +1,3 @@
+SimpleBankingAppTest_BuildBankWithAccounts_BankHasAccounts
+Bank Name: Tightwad Bank of Tightwad, MO|BankId: b0eddb91-ee8a-42a1-b83d-f1e384586c63|Total Number of Accounts: 33|Type: SimpleBankingApp.Classes.Bank
+33

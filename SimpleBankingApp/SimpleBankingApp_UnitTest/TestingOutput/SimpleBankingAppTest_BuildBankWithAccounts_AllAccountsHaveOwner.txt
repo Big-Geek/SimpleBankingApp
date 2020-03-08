@@ -1,0 +1,69 @@
+SimpleBankingAppTest_BuildBankWithAccounts_AllAccountsHaveOwner
+Bank Name: Tightwad Bank of Tightwad, MO|BankId: 19aa0897-f53a-4edf-bdc5-6b0b6db396ef|Total Number of Accounts: 33|Type: SimpleBankingApp.Classes.Bank
+33
+0000000001cx
+Id: 805840e8-f241-4768-a186-739d4b53fd56|Name: Washington, George
+0000000002cx
+Id: 7017f5e9-e0b3-40a8-a9ea-bfa38ed7734f|Name: Jefferson, Thomas
+0000000003cx
+Id: 79c271d8-f333-483d-a77c-5efe6afa8bfb|Name: Lincoln, Abraham
+0000000004cx
+Id: bc8b5916-d43e-41ed-8107-234fb7e22be7|Name: Hamilton, Alexander
+0000000005cx
+Id: 06a8b665-9da6-4635-92fc-bb1a35125a7d|Name: Jackson, Andrew
+0000000006cx
+Id: faaa9ae0-aa0a-4897-ae3e-fbccca145203|Name: Grant, Ulysses
+0000000007cx
+Id: 16463745-759f-4cf7-ac30-ed83c14abdb6|Name: Franklin, Benjamin
+0000000008cx
+Id: 91c9eef9-fcfb-4c88-8437-d6bd99779cca|Name: McKinley, William
+0000000009cx
+Id: 502fb823-f2ec-4328-bcfd-9a442da0a5e9|Name: Cleveland, Grover
+0000000010cx
+Id: 6b6211f3-e869-4e94-91b8-57ecef19c226|Name: Chase, Salmon
+0000000011cx
+Id: d2a88b9e-38f2-42c5-a0f7-11a4e611f496|Name: Wilson, Woodrow
+0000000001ci
+Id: 805840e8-f241-4768-a186-739d4b53fd56|Name: Washington, George
+0000000002ci
+Id: 7017f5e9-e0b3-40a8-a9ea-bfa38ed7734f|Name: Jefferson, Thomas
+0000000003ci
+Id: 79c271d8-f333-483d-a77c-5efe6afa8bfb|Name: Lincoln, Abraham
+0000000004ci
+Id: bc8b5916-d43e-41ed-8107-234fb7e22be7|Name: Hamilton, Alexander
+0000000005ci
+Id: 06a8b665-9da6-4635-92fc-bb1a35125a7d|Name: Jackson, Andrew
+0000000006ci
+Id: faaa9ae0-aa0a-4897-ae3e-fbccca145203|Name: Grant, Ulysses
+0000000007ci
+Id: 16463745-759f-4cf7-ac30-ed83c14abdb6|Name: Franklin, Benjamin
+0000000008ci
+Id: 91c9eef9-fcfb-4c88-8437-d6bd99779cca|Name: McKinley, William
+0000000009ci
+Id: 502fb823-f2ec-4328-bcfd-9a442da0a5e9|Name: Cleveland, Grover
+0000000010ci
+Id: 6b6211f3-e869-4e94-91b8-57ecef19c226|Name: Chase, Salmon
+0000000011ci
+Id: d2a88b9e-38f2-42c5-a0f7-11a4e611f496|Name: Wilson, Woodrow
+0000000001ii
+Id: 805840e8-f241-4768-a186-739d4b53fd56|Name: Washington, George
+0000000002ii
+Id: 7017f5e9-e0b3-40a8-a9ea-bfa38ed7734f|Name: Jefferson, Thomas
+0000000003ii
+Id: 79c271d8-f333-483d-a77c-5efe6afa8bfb|Name: Lincoln, Abraham
+0000000004ii
+Id: bc8b5916-d43e-41ed-8107-234fb7e22be7|Name: Hamilton, Alexander
+0000000005ii
+Id: 06a8b665-9da6-4635-92fc-bb1a35125a7d|Name: Jackson, Andrew
+0000000006ii
+Id: faaa9ae0-aa0a-4897-ae3e-fbccca145203|Name: Grant, Ulysses
+0000000007ii
+Id: 16463745-759f-4cf7-ac30-ed83c14abdb6|Name: Franklin, Benjamin
+0000000008ii
+Id: 91c9eef9-fcfb-4c88-8437-d6bd99779cca|Name: McKinley, William
+0000000009ii
+Id: 502fb823-f2ec-4328-bcfd-9a442da0a5e9|Name: Cleveland, Grover
+0000000010ii
+Id: 6b6211f3-e869-4e94-91b8-57ecef19c226|Name: Chase, Salmon
+0000000011ii
+Id: d2a88b9e-38f2-42c5-a0f7-11a4e611f496|Name: Wilson, Woodrow
