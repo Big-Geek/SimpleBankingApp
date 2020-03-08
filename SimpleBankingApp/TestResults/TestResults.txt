@@ -1,0 +1,146 @@
+Test Name:	SimpleBankingAppTest_BuildBankWithAccounts_AccountCreatedWithoutOwner
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_BuildBankWithAccounts_AccountCreatedWithoutOwner
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 61
+Test Outcome:	Passed
+Test Duration:	0:00:00.0046746
+
+
+Test Name:	SimpleBankingAppTest_BuildBankWithAccounts_AllAccountsHaveOwner
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_BuildBankWithAccounts_AllAccountsHaveOwner
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 103
+Test Outcome:	Passed
+Test Duration:	0:00:00.0258315
+
+
+Test Name:	SimpleBankingAppTest_BuildBankWithAccounts_BankHasAccounts
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_BuildBankWithAccounts_BankHasAccounts
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 41
+Test Outcome:	Passed
+Test Duration:	0:00:00.0048832
+
+
+Test Name:	SimpleBankingAppTest_BuildBankWithoutAccounts_BankHasNameAndNoAccounts
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_BuildBankWithoutAccounts_BankHasNameAndNoAccounts
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 20
+Test Outcome:	Passed
+Test Duration:	0:00:00.0066505
+
+
+Test Name:	SimpleBankingAppTest_TestDeposit_CheckingAccountDirectDeposit
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_CheckingAccountDirectDeposit
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 135
+Test Outcome:	Passed
+Test Duration:	0:00:00.0027158
+
+
+Test Name:	SimpleBankingAppTest_TestDeposit_CheckingAccountDirectWithdrawal
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_CheckingAccountDirectWithdrawal
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 202
+Test Outcome:	Passed
+Test Duration:	0:00:00.0021764
+
+Test Name:	SimpleBankingAppTest_TestDeposit_CheckingAccountDirectWithdrawalOverdraft
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_CheckingAccountDirectWithdrawalOverdraft
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 271
+Test Outcome:	Passed
+Test Duration:	0:00:00.0019359
+
+Test Name:	SimpleBankingAppTest_TestDeposit_CorporateInvestmentAccountDirectDeposit
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_CorporateInvestmentAccountDirectDeposit
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 157
+Test Outcome:	Passed
+Test Duration:	0:00:00.0019777
+
+
+
+Test Name:	SimpleBankingAppTest_TestDeposit_CorporateInvestmentAccountDirectWithdrawal
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_CorporateInvestmentAccountDirectWithdrawal
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 225
+Test Outcome:	Passed
+Test Duration:	0:00:00.0020343
+
+
+Test Name:	SimpleBankingAppTest_TestDeposit_IndividualInvestmentAccountDirectDeposit
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_IndividualInvestmentAccountDirectDeposit
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 179
+Test Outcome:	Passed
+Test Duration:	0:00:00.0019495
+
+
+Test Name:	SimpleBankingAppTest_TestDeposit_IndividualInvestmentAccountDirectWithdrawal
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestDeposit_IndividualInvestmentAccountDirectWithdrawal
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 247
+Test Outcome:	Passed
+Test Duration:	0:00:00.002467
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToCheckingDifferentOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToCheckingDifferentOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 574
+Test Outcome:	Passed
+Test Duration:	0:00:00.0035417
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToCorporateInvSameOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToCorporateInvSameOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 372
+Test Outcome:	Passed
+Test Duration:	0:00:00.0035785
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToIndividualInvSameOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_CheckingAccountTransferToIndividualInvSameOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 404
+Test Outcome:	Passed
+Test Duration:	0:00:00.0042407
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_CorporateInvestmentAccountTransferToCheckingSameOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_CorporateInvestmentAccountTransferToCheckingSameOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 441
+Test Outcome:	Passed
+Test Duration:	0:00:00.0035405
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_CorporateInvestmentAccountTransferToIndividualInvSameOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_CorporateInvestmentAccountTransferToIndividualInvSameOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 473
+Test Outcome:	Passed
+Test Duration:	0:00:00.0033786
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_IndividualInvestmentAccountTransferToCheckingSameOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_IndividualInvestmentAccountTransferToCheckingSameOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 510
+Test Outcome:	Passed
+Test Duration:	0:00:00.0036634
+
+
+Test Name:	SimpleBankingAppTest_TestTransfer_IndividualInvestmentAccountTransferToCorporateInvSameOwnerSuccessful
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestTransfer_IndividualInvestmentAccountTransferToCorporateInvSameOwnerSuccessful
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 542
+Test Outcome:	Passed
+Test Duration:	0:00:00.0043774
+
+
+Test Name:	SimpleBankingAppTest_TestWithdraw_CorporateInvestmentAccountDirectWithdrawalOverdraft
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestWithdraw_CorporateInvestmentAccountDirectWithdrawalOverdraft
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 297
+Test Outcome:	Passed
+Test Duration:	0:00:00.0019622
+
+
+Test Name:	SimpleBankingAppTest_TestWithdraw_IndividualInvestmentAccountDirectWithdrawalOverAllowedMax
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestWithdraw_IndividualInvestmentAccountDirectWithdrawalOverAllowedMax
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 342
+Test Outcome:	Passed
+Test Duration:	0:00:00.0019431
+
+
+Test Name:	SimpleBankingAppTest_TestWithdraw_IndividualInvestmentAccountDirectWithdrawalOverdraft
+Test FullName:	SimpleBankingApp_UnitTest.BankTest.SimpleBankingAppTest_TestWithdraw_IndividualInvestmentAccountDirectWithdrawalOverdraft
+Test Source:	C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp_UnitTest\BankTest.cs : line 319
+Test Outcome:	Passed
+Test Duration:	0:00:00.0019368
+
+
