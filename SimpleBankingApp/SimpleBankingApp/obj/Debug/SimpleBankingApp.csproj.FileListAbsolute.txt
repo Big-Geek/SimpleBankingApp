@@ -1,0 +1,6 @@
+C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp\bin\Debug\SimpleBankingApp.exe.config
+C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp\obj\Debug\SimpleBankingApp.csprojResolveAssemblyReference.cache
+C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp\bin\Debug\SimpleBankingApp.exe
+C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp\bin\Debug\SimpleBankingApp.pdb
+C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp\obj\Debug\SimpleBankingApp.exe
+C:\Users\mjones\Documents\Personal\SimpleBankingApp\SimpleBankingApp\SimpleBankingApp\obj\Debug\SimpleBankingApp.pdb
